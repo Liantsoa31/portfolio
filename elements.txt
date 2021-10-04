@@ -1,0 +1,3 @@
+color blue: #294DFF
+color orange: #fe7a03
+font: Arial
